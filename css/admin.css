@@ -1,0 +1,28 @@
+.textarea_cls{
+	width:500px;
+	height:200px;
+}
+.wide_inp{
+	width:500px;
+}
+.clearfix{
+  clear:both;
+}
+.error_msg{
+	padding: 9px 6px 10px;
+background: coral;
+border: 1px dotted red;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+color:#fff;
+}
+.conf_msg{
+	padding: 9px 6px 10px;
+	background: #CF9;
+	border: 1px dotted #9C0;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color:#fff;
+}

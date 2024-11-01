@@ -1,0 +1,80 @@
+#status_div{
+	display:none;
+}
+.hidden{
+  display:none !important;
+}
+
+.clearfix{
+  clear:both;
+}
+.error_msg{
+	padding: 9px 6px 10px;
+background: coral;
+border: 1px dotted red;
+border-radius: 2px;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+color:#fff;
+}
+.conf_msg{
+	padding: 9px 6px 10px;
+	background: #CF9;
+	border: 1px dotted #9C0;
+	border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	color:#fff;
+}
+#status_ajax{
+	display:none;
+}
+.button_block{
+	display:none;
+}
+.button_block{
+	text-align:center;
+}
+.form_conteiner input[type="text"], input[type="password"], textarea {
+background: #fff;
+-moz-box-shadow: false;
+-webkit-box-shadow: false;
+box-shadow: false;
+border: 1px solid #DDD;
+color: #888;
+border-radius: 5px;
+}
+.form_conteiner label{
+	font-weight: bold;
+	font-family: 'BenchNine', sans-serif;
+	font-size:18px;
+}
+.form_conteiner label{
+	font-weight: bold;
+	font-family: 'BenchNine', sans-serif;
+	font-size:14px;
+	display:block;
+}
+.msg_block{
+	text-align:center;
+}
+.in_small{
+	width:100px;
+}
+.gr_text{
+	color:gray !important;
+}
+.button_block_premium{
+	text-align:center;
+	display:none;
+}
+.button_block .submit, .button_block_premium .submit{
+	display:none;
+}
+.button_block form input[type=image]{
+	display:none;
+}
+.tos_block{
+	margin:5px 0px;
+	text-align:center;
+}
